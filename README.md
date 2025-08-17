@@ -5,7 +5,7 @@ Influence of AI Assistance in Student Learning is a comprehensive data analytics
 
 Objectives
 -----------
-Identify how AI assistance influences student learning across levels, disciplines, and tasks.
+* Identify how AI assistance influences student learning across levels, disciplines, and tasks.
 
 Explore relationships between AI assistance level, task type, and final outcomes.
 
