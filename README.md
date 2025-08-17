@@ -51,7 +51,7 @@ Key Details:
 - UsedAgain → Whether the student reused AI tools
 - SatisfactionRating → 1–5 rating of overall satisfaction with the session
 
-  Author
-  ---------
-  Nadiya Nasrin P
+Author
+---------
+Nadiya Nasrin P
 
