@@ -35,7 +35,7 @@ Dashboard Preview
 -----------------
 Dataset
 -----------
-- Source: https://www.kaggle.com/datasets/ayeshasal89/ai-assistant-usage-in-student-life-synthetic/data
+- Source: https://www.kaggle.com/datasets/ayeshasal89/ai-assistant-usage-in-student-life-synthetic
 - Size: 10,000 AI usage session records
   
 Key Details:
