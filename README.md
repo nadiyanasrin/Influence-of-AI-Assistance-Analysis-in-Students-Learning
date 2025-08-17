@@ -5,13 +5,51 @@ Influence of AI Assistance in Student Learning is a comprehensive data analytics
 
 Objectives
 -----------
-. Identify how AI assistance influences student learning across levels, disciplines, and tasks.
+Identify how AI assistance influences student learning across levels, disciplines, and tasks.
 
-.Explore relationships between AI assistance level, task type, and final outcomes.
+Explore relationships between AI assistance level, task type, and final outcomes.
 
 Validate findings using statistical hypothesis testing (T-test, ANOVA, Z-test, Chi-square, F-test).
 
 Visualize insights through an interactive Tableau dashboard for educators and decision-makers.
 
 Compare patterns in session length, number of prompts, and satisfaction ratings.
+
+Tools & Tecnologies
+-----------
+Python – Data cleaning, preprocessing, and EDA (pandas, matplotlib, seaborn, numpy)
+
+R Programming – Statistical hypothesis testing (t.test, aov, chisq.test, Z-test, F-test)
+
+Tableau – Interactive dashboards & KPI visualization
+
+Project Files
+-----------
+AI Assistance in Education Analysis.ipynb → Python data cleaning, preparation, and EDA
+
+AI Assistance Dashboard.twb → Tableau dashboard
+
+AI Assistance Statistical Testing.R → R scripts for hypothesis testing
+
+Key Features
+-------------
+Cleaned and processed student AI usage dataset.
+
+Performed statistical hypothesis testing to confirm patterns.
+
+Explored task-specific AI usage (Coding, Writing, Research, etc.).
+
+Built an interactive Tableau dashboard for trend visualization.
+
+Provided insights to support better AI integration in education.
+
+Dashboard Preview
+-----------------
+Dataset
+-----------
+Source:
+
+Size: 10,000 AI usage session records
+
+
 
