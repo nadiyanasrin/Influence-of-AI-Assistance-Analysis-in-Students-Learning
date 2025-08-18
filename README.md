@@ -32,6 +32,8 @@ Key Features
 
 Dashboard Preview
 -----------------
+<img width="1280" height="720" alt="Image" src="https://github.com/user-attachments/assets/4a458738-7500-4a3c-ab54-14cf1325dbfb" />
+
 Dataset
 -----------
 - Source: https://www.kaggle.com/datasets/ayeshasal89/ai-assistant-usage-in-student-life-synthetic
